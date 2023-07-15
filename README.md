@@ -3,7 +3,7 @@ teknik-teknik dalam ilmu komputer dan matematika untuk merepresentasikan dan mem
 
 _list code__
 
-1.pertemuan 2 - tidak hadir di karenakan belum masuk di absen (byaran kurang sedikit)
+1.pertemuan 2 - tidak hadir di karenakan belum masuk di abse(telat nyusun ,bayaran)
 
 2.pertemuan 3 - membuat titik-titik naik turun dan membuat silang x dengan menggunakan delphi
 
