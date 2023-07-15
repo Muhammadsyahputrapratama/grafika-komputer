@@ -1,7 +1,7 @@
-#_*GRAFIKA-KOMPUTER_*#
+GRAFIKA-KOMPUTER_*
 teknik-teknik dalam ilmu komputer dan matematika untuk merepresentasikan dan memanipulasi data gambar menggunakan komputer. Dengan bahasa lain, istilah grafika komputer juga dapat diartikan segala sesuatu selain teks atau suara.
 
-#_list code_#**
+_***list code_**
 
 1.pertemuan 2 - tidak hadir di karenakan belum masuk di absen (byaran kurang sedikit)
 
